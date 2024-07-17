@@ -1,0 +1,26 @@
+    Bold and Italic
+    Use SETS for holding commands
+    Block starts
+    Goto Blocks
+Error Reporting
+    Check block combinations for legality
+    Check valid comman
+    mapping of block names - don't allow dups 
+If I start blocks with CONTINUE button, I need descriptive text
+remove unnecessary line breaks. Or use shorter version 
+Update text line for comment and append.
+    ignore those combinations as well
+    implement them.
+Add support for variables
+Add support for choice blocks
+    give them a unique name
+    generate a target at end so they can exit
+More tests
+Do we have coverage analyzers in python
+
+
+it is illegal to fall out of a choice statement 
+
+python dotest.py # to run unit tests from command line AND get coverage Reporting
+python -m pytest # to just run unit tests (obsolete)
+run from the launcher to debug 
